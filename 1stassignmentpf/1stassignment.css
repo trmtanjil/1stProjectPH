@@ -1,0 +1,19 @@
+.product-img img{
+    height: 100%;
+    width: 90%;
+}
+.product{
+    border-radius: 5px;
+}
+.product-main{
+    justify-content: center;
+    height: 90%;
+    /* width: 100%; */
+    border: 2px solid rgb(45, 240, 11);
+    border-radius: 10px;
+    margin: 30px;
+}
+.fa-brands{
+    font-size: 29px;
+    margin-top: 22px;
+}
